@@ -1,0 +1,6 @@
+Pillow==9.5.0
+pypiwin32==223
+pystray==0.19.4
+pywin32==306
+six==1.16.0
+win10toast==0.9
